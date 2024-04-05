@@ -1,1 +1,14 @@
-# Portfolio-Projects
+# Portfolio Projects
+
+Here are some recent projects showing my skills with Python, various libraries, data cleaning, exploratory and statistical data analysis, hypothesis testing, data visualization, and machine learning. 
+
+| Project Number | Title                                                                                                          | Description                                                                                                       |
+|----------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| 1              | [Predicting Customer Churn](https://github.com/le-crupi64/Predicting-Customer-Churn)    | The project aims to build a predictive model for Beta Bank to anticipate customer churn.                          |
+| 2              | [Video Game Sales Analysis](https://github.com/le-crupi64/Video-Game-Sales-Analysis)                                                                                                    | This Jupyter notebook will explore a dataset of international video game sales to identify patterns that determine whether a game succeeds or not.     |
+| 3              | [Oil Well Profit Prediction](https://github.com/le-crupi64/Oil-Well-Profit-Prediction)                                                                                          | **In Progress** Finding the most profitable place for OilyGiant mining company's new well.         |
+| 4              | [Plan Recommender](https://github.com/le-crupi64/Phone-Plan-Recommender)                                                              | The project task was to select which classification model is best for a phone plan recommender.                         |
+| 5              | [Ride Share Analysis](https://github.com/le-crupi64/ride-share-analysis/blob/main/ride_share_analysis.ipynb)                                                      | The project task was to explore trends ride share use using SQL and Python.                        |
+| 6              | Instacart                                                           | The project task was to explore trends in grocery delivery.                        |
+| 7              | [Car Ad Analysis](https://github.com/le-crupi64/CarAdDataAnalysis)                                                          | This program uses Render and Python to allow users to gain insights about used car listings. These findings can be viewed in a Jupyter Notebook or on the Render app.                        |
+| 8              | Megaline Plan Analysis                                                         | This project involves a preliminary analysis of two prepaid plans offered by the telecom operator Megaline, to determine which plan generates more revenue.                        |
