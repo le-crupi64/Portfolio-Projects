@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-Here are some recent projects showing my skills with Python, various libraries, data cleaning, exploratory and statistical data analysis, hypothesis testing, data visualization, Power Bi, and machine learning. 
+Here are some recent projects showing my skills with Python, various libraries, data cleaning, exploratory and statistical data analysis, hypothesis testing, data visualization, Power BI, and machine learning. 
 
 | Project Number | Title                                                                                                          | Description                                                                                                       |
 |----------------|---------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
